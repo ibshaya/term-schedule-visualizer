@@ -90,8 +90,4 @@ Ibrahim Alshayea
 
 
 
-# Updated
-<!-- version bump -->
 
-
-<!-- docs update -->
