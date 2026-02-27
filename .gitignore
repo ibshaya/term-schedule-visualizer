@@ -29,15 +29,12 @@ gradle/
 .gradle/
 *.gradle
 
-# Sensitive data (exclude docs folder)
+# Sensitive data
 *.pdf
-!docs/*.pdf
 *.xlsx
-!docs/*.xlsx
 *.xls
-!docs/*.xls
+Term*
 
-# Local environment
 .env
 .env.local
 *.log
