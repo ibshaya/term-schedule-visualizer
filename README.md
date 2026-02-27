@@ -86,8 +86,6 @@ See `docs/` folder for diagrams and specifications.
 
 ## Author
 
-Ibrahim Alshayea (ibshaya)
+Ibrahim Alshayea 
 
-## Course
 
-KFUPM Software Engineering (SWE 316)
